@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\TwoDimensionalArray.exe
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\TwoDimensionalArray.deps.json
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\TwoDimensionalArray.runtimeconfig.json
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\TwoDimensionalArray.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\ref\TwoDimensionalArray.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\TwoDimensionalArray.pdb
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\ref\TwoDimensionalArray.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.pdb
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.genruntimeconfig.cache
