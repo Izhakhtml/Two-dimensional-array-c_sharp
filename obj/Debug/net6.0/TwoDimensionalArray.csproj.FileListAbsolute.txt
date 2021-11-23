@@ -13,3 +13,6 @@ C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6
 C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\ref\TwoDimensionalArray.dll
 C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.pdb
 C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.genruntimeconfig.cache
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\אליאב ליגעלם\source\repos\TwoDimensionalArray\obj\Debug\net6.0\TwoDimensionalArray.csproj.CopyComplete

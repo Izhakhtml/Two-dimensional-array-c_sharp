@@ -171,6 +171,7 @@ void PrintTwoArray()
 int[,] arrayBuilding = new int[4,3];
 Random random = new Random();
 int counter = 0;
+//////////////////// section a
 void Print()
 {
     
@@ -184,10 +185,47 @@ void Print()
             Console.Write($"{arrayBuilding[i, j]}");
             counter++;
         }
-        //Console.WriteLine();
+        Console.WriteLine();
         Console.Write($"how Tenant:{arrayBuilding.GetLength(1)}");
      
     }
            
 }
-Print();
+//Print();
+//////////////////// section b
+void GetEvenNumbers()
+{
+ for(int i = 0; i < arrayBuilding.GetLength(0); i++)
+    {
+        for(int j = 0; j < arrayBuilding.GetLength(1); j++)
+        {
+            int randomNumber = random.Next(0, 50);
+            if (randomNumber % 2 == 0)
+            {
+              arrayBuilding[i, j] = randomNumber;
+              Console.Write(arrayBuilding[i , j]);
+            }
+            else 
+            {Console.Write("odd");}
+        }
+        Console.WriteLine();
+    }
+}
+//GetEvenNumbers();
+
+///////////////////////////////////// CLASS BUILDING
+//Building build = new Building(arrayBuilding);
+//Console.WriteLine(build.arrayBuild);
+//build.GetEvenNumbers();
+//int inputF = int.Parse(Console.ReadLine());
+//int inputL = int.Parse(Console.ReadLine());
+//build.GetEvenNumbersWithArgu(inputF,inputL);
+
+//////////////////////////////////// CLASS OF BOX OF CHOCOLATES EXERCISE
+int[,] arrayChocolate = new int[4,8];
+Chocolate chocolate = new Chocolate(arrayChocolate);
+//Console.WriteLine(chocolate.arrayChocolate);
+//chocolate.GetRandomNumber();
+int inputF = int.Parse(Console.ReadLine());
+int inputL = int.Parse(Console.ReadLine());
+chocolate.GetDataFromUser(inputF, inputL);

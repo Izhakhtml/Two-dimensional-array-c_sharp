@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "MVNHL6wWz5bhbERG2I427G6guYLgEe8Z0oaQAJftJtNrbEE1+In/tMPt6OmhetoA1IdJeinh4jTvjwrdbJebRA==",
+  "dgSpecHash": "gD9T+txyFSWzH5+Bg2hkDhmFb8w5d5VSS867OOu2GZl5RfR7e7PPlGd6dwLJQJ8SO6zPoWxnD0U6y783tM8Kkg==",
   "success": true,
   "projectFilePath": "C:\\Users\\אליאב ליגעלם\\source\\repos\\TwoDimensionalArray\\TwoDimensionalArray.csproj",
-  "expectedPackageFiles": [],
-  "logs": []
+  "expectedPackageFiles": [
+    "C:\\Users\\אליאב ליגעלם\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.2.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
 }
